@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" font-family="Georgia, serif">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4f4f5"/><stop offset="1" stop-color="#dcdce0"/></linearGradient>
+  <filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity=".16"/></filter></defs>
+  <rect width="300" height="400" fill="url(#bg)"/>
+  <g filter="url(#s)"><rect x="56" y="40" width="210" height="150" rx="12" fill="#fff" transform="rotate(6 160 115)"/></g>
+  <g transform="rotate(6 160 115)" fill="#e4e4e7"><rect x="72" y="60" width="90" height="10" rx="5"/><rect x="72" y="78" width="60" height="8" rx="4"/><rect x="172" y="56" width="80" height="70" rx="8" fill="#d4d4d8"/></g>
+  <g filter="url(#s)">
+    <rect x="30" y="110" width="240" height="250" rx="14" fill="#fff"/>
+    <rect x="30" y="110" width="240" height="26" rx="14" fill="#f4f4f5"/><rect x="30" y="124" width="240" height="12" fill="#f4f4f5"/>
+    <g fill="#d4d4d8"><circle cx="46" cy="123" r="4"/><circle cx="58" cy="123" r="4"/><circle cx="70" cy="123" r="4"/></g>
+    <rect x="96" y="117" width="140" height="12" rx="6" fill="#fff"/>
+    <rect x="44" y="150" width="212" height="112" rx="10" fill="#18181b"/>
+    <text x="58" y="190" font-size="22" font-style="italic" fill="#fafafa">Tu negocio,</text>
+    <text x="58" y="216" font-size="22" fill="#fafafa">en línea hoy.</text>
+    <rect x="58" y="232" width="62" height="18" rx="9" fill="#fafafa"/>
+    <circle cx="214" cy="200" r="30" fill="none" stroke="#52525b" stroke-width="1.5"/><circle cx="226" cy="190" r="16" fill="#3f3f46"/>
+    <g fill="#f4f4f5"><rect x="44" y="274" width="66" height="70" rx="8"/><rect x="117" y="274" width="66" height="70" rx="8"/><rect x="190" y="274" width="66" height="70" rx="8"/></g>
+    <g fill="#d4d4d8"><rect x="52" y="320" width="44" height="6" rx="3"/><rect x="125" y="320" width="40" height="6" rx="3"/><rect x="198" y="320" width="48" height="6" rx="3"/></g>
+    <g fill="#18181b"><circle cx="62" cy="294" r="8"/><rect x="128" y="286" width="16" height="16" rx="4"/><path d="M206 302 l8 -14 8 14z"/></g>
+  </g>
+</svg>

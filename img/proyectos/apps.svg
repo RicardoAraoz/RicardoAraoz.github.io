@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" font-family="Inter, system-ui, sans-serif">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4f4f5"/><stop offset="1" stop-color="#e4e4e7"/></linearGradient>
+  <filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-opacity=".16"/></filter></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <!-- API / backend -->
+  <g filter="url(#s)">
+    <rect x="70" y="150" width="230" height="300" rx="18" fill="#18181b"/>
+    <text x="92" y="186" font-size="13" fill="#a1a1aa" font-family="ui-monospace, Menlo, monospace">api · .NET</text>
+    <g font-family="ui-monospace, Menlo, monospace" font-size="13">
+      <text x="92" y="226" fill="#71717a">GET</text><text x="134" y="226" fill="#fafafa">/pedidos</text><text x="270" y="226" fill="#a1a1aa" text-anchor="end">200</text>
+      <text x="92" y="256" fill="#71717a">POST</text><text x="134" y="256" fill="#fafafa">/clientes</text><text x="270" y="256" fill="#a1a1aa" text-anchor="end">201</text>
+      <text x="92" y="286" fill="#71717a">PUT</text><text x="134" y="286" fill="#fafafa">/citas/:id</text><text x="270" y="286" fill="#a1a1aa" text-anchor="end">200</text>
+    </g>
+    <rect x="92" y="312" width="186" height="1" fill="#3f3f46"/>
+    <ellipse cx="185" cy="352" rx="44" ry="11" fill="#3f3f46"/><path d="M141 352 V398 A44 11 0 0 0 229 398 V352" fill="#27272a" stroke="#52525b"/><ellipse cx="185" cy="352" rx="44" ry="11" fill="#3f3f46" stroke="#a1a1aa"/>
+    <text x="185" y="432" font-size="12" fill="#a1a1aa" text-anchor="middle">PostgreSQL</text>
+  </g>
+  <path d="M300 300 C 340 300, 340 250, 380 250" fill="none" stroke="#18181b" stroke-width="2" stroke-dasharray="5 6"/>
+  <path d="M300 320 C 360 320, 520 360, 560 330" fill="none" stroke="#18181b" stroke-width="2" stroke-dasharray="5 6"/>
+  <!-- Phone 1 -->
+  <g filter="url(#s)">
+    <rect x="380" y="90" width="200" height="410" rx="34" fill="#18181b"/>
+    <rect x="390" y="100" width="180" height="390" rx="26" fill="#fff"/>
+    <rect x="452" y="110" width="56" height="12" rx="6" fill="#18181b"/>
+    <text x="408" y="160" font-size="20" font-weight="600" fill="#18181b">Hola, Ana</text>
+    <text x="408" y="182" font-size="12" fill="#71717a">Tu resumen de hoy</text>
+    <rect x="404" y="198" width="152" height="96" rx="16" fill="#18181b"/>
+    <path d="M418 276 L440 258 L460 266 L484 238 L506 248 L540 220" fill="none" stroke="#fafafa" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="418" y="222" font-size="11" fill="#a1a1aa">Ventas</text>
+    <g fill="#f4f4f5"><rect x="404" y="306" width="152" height="44" rx="12"/><rect x="404" y="358" width="152" height="44" rx="12"/><rect x="404" y="410" width="152" height="44" rx="12"/></g>
+    <g fill="#18181b"><circle cx="426" cy="328" r="9"/><circle cx="426" cy="380" r="9" fill="#a1a1aa"/><circle cx="426" cy="432" r="9" fill="#d4d4d8"/></g>
+    <g fill="#d4d4d8"><rect x="444" y="322" width="80" height="8" rx="4"/><rect x="444" y="374" width="64" height="8" rx="4"/><rect x="444" y="426" width="88" height="8" rx="4"/></g>
+  </g>
+  <!-- Phone 2 -->
+  <g filter="url(#s)" transform="rotate(8 650 320)">
+    <rect x="560" y="140" width="170" height="350" rx="30" fill="#18181b"/>
+    <rect x="569" y="149" width="152" height="332" rx="23" fill="#0f0f10"/>
+    <text x="586" y="196" font-size="17" font-weight="600" fill="#fafafa">Agenda</text>
+    <g font-size="11" fill="#a1a1aa"><text x="586" y="226">L</text><text x="610" y="226">M</text><text x="634" y="226">M</text><text x="658" y="226">J</text><text x="682" y="226">V</text></g>
+    <rect x="626" y="234" width="22" height="22" rx="11" fill="#fafafa"/>
+    <g fill="#27272a"><rect x="582" y="276" width="126" height="54" rx="12"/><rect x="582" y="338" width="126" height="54" rx="12"/><rect x="582" y="400" width="126" height="54" rx="12"/></g>
+    <g fill="#fafafa"><rect x="594" y="290" width="70" height="8" rx="4"/></g><g fill="#52525b"><rect x="594" y="306" width="46" height="7" rx="3.5"/><rect x="594" y="352" width="80" height="8" rx="4"/><rect x="594" y="414" width="60" height="8" rx="4"/></g>
+  </g>
+  <g font-size="12" fill="#3f3f46">
+    <rect x="70" y="490" width="96" height="30" rx="15" fill="#fff" stroke="#d4d4d8"/><text x="118" y="510" text-anchor="middle">Flutter</text>
+    <rect x="176" y="490" width="96" height="30" rx="15" fill="#fff" stroke="#d4d4d8"/><text x="224" y="510" text-anchor="middle">SwiftUI</text>
+  </g>
+  <text x="760" y="584" font-size="11" fill="#a1a1aa" text-anchor="end" letter-spacing="2">ILUSTRATIVO</text>
+</svg>

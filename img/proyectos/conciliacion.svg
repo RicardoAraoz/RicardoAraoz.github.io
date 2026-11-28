@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" font-family="Inter, system-ui, sans-serif">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4f4f5"/><stop offset="1" stop-color="#e4e4e7"/></linearGradient>
+  <linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#18181b" stop-opacity=".22"/><stop offset="1" stop-color="#18181b" stop-opacity="0"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <rect x="60" y="56" width="680" height="500" rx="22" fill="#fff" stroke="#e4e4e7"/>
+  <rect x="60" y="56" width="150" height="500" rx="22" fill="#fafafa"/><rect x="190" y="56" width="20" height="500" fill="#fafafa"/>
+  <circle cx="92" cy="92" r="12" fill="#18181b"/><rect x="112" y="86" width="70" height="12" rx="6" fill="#d4d4d8"/>
+  <g fill="#e4e4e7"><rect x="84" y="140" width="100" height="12" rx="6" fill="#18181b"/><rect x="84" y="172" width="86" height="12" rx="6"/><rect x="84" y="204" width="94" height="12" rx="6"/><rect x="84" y="236" width="70" height="12" rx="6"/><rect x="84" y="268" width="80" height="12" rx="6"/></g>
+  <text x="236" y="104" font-size="22" font-weight="600" fill="#18181b">Cuadre diario</text>
+  <text x="236" y="128" font-size="13" fill="#71717a">Datos de ejemplo</text>
+  <g font-size="12" fill="#71717a">
+    <rect x="236" y="150" width="148" height="86" rx="14" fill="#fafafa" stroke="#f0f0f0"/><text x="252" y="176">Cuadran solos</text><text x="252" y="216" font-size="28" font-weight="600" fill="#18181b">94%</text>
+    <rect x="396" y="150" width="148" height="86" rx="14" fill="#fafafa" stroke="#f0f0f0"/><text x="412" y="176">Por revisar</text><text x="412" y="216" font-size="28" font-weight="600" fill="#18181b">12</text>
+    <rect x="556" y="150" width="160" height="86" rx="14" fill="#18181b"/><text x="572" y="176" fill="#a1a1aa">Listo para SAP</text><text x="572" y="216" font-size="28" font-weight="600" fill="#fff">✓ 31</text>
+  </g>
+  <rect x="236" y="252" width="480" height="150" rx="14" fill="#fafafa" stroke="#f0f0f0"/>
+  <path d="M252 380 L300 350 L348 362 L396 320 L444 334 L492 300 L540 312 L588 280 L636 292 L700 262 L700 390 L252 390Z" fill="url(#a)"/>
+  <path d="M252 380 L300 350 L348 362 L396 320 L444 334 L492 300 L540 312 L588 280 L636 292 L700 262" fill="none" stroke="#18181b" stroke-width="2.5" stroke-linejoin="round"/>
+  <g font-size="12" fill="#3f3f46">
+    <rect x="236" y="418" width="480" height="38" rx="10" fill="#fafafa"/><circle cx="256" cy="437" r="6" fill="#18181b"/><text x="272" y="441">Depósito · efectivo</text><text x="560" y="441" fill="#71717a">fecha + importe</text><text x="668" y="441">✓</text>
+    <rect x="236" y="462" width="480" height="38" rx="10" fill="#fafafa"/><circle cx="256" cy="481" r="6" fill="#a1a1aa"/><text x="272" y="485">Terminal · tarjeta</text><text x="560" y="485" fill="#71717a">por canal</text><text x="668" y="485">✓</text>
+    <rect x="236" y="506" width="480" height="38" rx="10" fill="#fff" stroke="#d4d4d8" stroke-dasharray="4 4"/><circle cx="256" cy="525" r="6" fill="none" stroke="#18181b"/><text x="272" y="529">Transferencia</text><text x="560" y="529" fill="#71717a">revisión humana</text><text x="668" y="529">?</text>
+  </g>
+  <text x="740" y="584" font-size="11" fill="#a1a1aa" text-anchor="end" letter-spacing="2">ILUSTRATIVO</text>
+</svg>

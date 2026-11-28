@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" font-family="Inter, system-ui, sans-serif">
+<defs><radialGradient id="r"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e4e4e7"/></radialGradient></defs>
+<rect width="800" height="600" fill="url(#r)"/>
+<circle cx="400" cy="300" r="110" fill="none" stroke="#d4d4d8" stroke-dasharray="3 6"/>
+<circle cx="400" cy="300" r="185" fill="none" stroke="#d4d4d8" stroke-dasharray="3 6"/>
+<circle cx="400" cy="300" r="255" fill="none" stroke="#d4d4d8" stroke-dasharray="3 6"/>
+<line x1="400" y1="300" x2="510.0" y2="300.0" stroke="#18181b" stroke-opacity="0.18"/>
+<line x1="400" y1="300" x2="455.0" y2="374.3" stroke="#18181b" stroke-opacity="0.18"/>
+<line x1="400" y1="300" x2="345.0" y2="374.3" stroke="#18181b" stroke-opacity="0.18"/>
+<line x1="400" y1="300" x2="290.0" y2="300.0" stroke="#18181b" stroke-opacity="0.18"/>
+<line x1="400" y1="300" x2="345.0" y2="225.7" stroke="#18181b" stroke-opacity="0.18"/>
+<line x1="400" y1="300" x2="455.0" y2="225.7" stroke="#18181b" stroke-opacity="0.18"/>
+<line x1="400" y1="300" x2="570.4" y2="356.2" stroke="#18181b" stroke-opacity="0.14"/>
+<line x1="400" y1="300" x2="484.2" y2="428.5" stroke="#18181b" stroke-opacity="0.14"/>
+<line x1="400" y1="300" x2="358.6" y2="440.6" stroke="#18181b" stroke-opacity="0.14"/>
+<line x1="400" y1="300" x2="252.4" y2="387.0" stroke="#18181b" stroke-opacity="0.14"/>
+<line x1="400" y1="300" x2="215.2" y2="292.7" stroke="#18181b" stroke-opacity="0.14"/>
+<line x1="400" y1="300" x2="264.5" y2="201.7" stroke="#18181b" stroke-opacity="0.14"/>
+<line x1="400" y1="300" x2="377.2" y2="156.8" stroke="#18181b" stroke-opacity="0.14"/>
+<line x1="400" y1="300" x2="500.5" y2="178.9" stroke="#18181b" stroke-opacity="0.14"/>
+<line x1="400" y1="300" x2="576.8" y2="257.6" stroke="#18181b" stroke-opacity="0.14"/>
+<line x1="400" y1="300" x2="577.7" y2="442.7" stroke="#18181b" stroke-opacity="0.10"/>
+<line x1="400" y1="300" x2="450.6" y2="495.0" stroke="#18181b" stroke-opacity="0.10"/>
+<line x1="400" y1="300" x2="307.4" y2="485.3" stroke="#18181b" stroke-opacity="0.10"/>
+<line x1="400" y1="300" x2="193.7" y2="416.9" stroke="#18181b" stroke-opacity="0.10"/>
+<line x1="400" y1="300" x2="145.4" y2="311.3" stroke="#18181b" stroke-opacity="0.10"/>
+<line x1="400" y1="300" x2="178.0" y2="202.1" stroke="#18181b" stroke-opacity="0.10"/>
+<line x1="400" y1="300" x2="281.1" y2="124.1" stroke="#18181b" stroke-opacity="0.10"/>
+<line x1="400" y1="300" x2="421.9" y2="101.8" stroke="#18181b" stroke-opacity="0.10"/>
+<line x1="400" y1="300" x2="555.8" y2="142.5" stroke="#18181b" stroke-opacity="0.10"/>
+<line x1="400" y1="300" x2="640.2" y2="233.2" stroke="#18181b" stroke-opacity="0.10"/>
+<line x1="400" y1="300" x2="648.4" y2="345.1" stroke="#18181b" stroke-opacity="0.10"/>
+<rect x="494.0" y="284.0" width="32" height="32" rx="7.2" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="510.0" cy="300.0" r="4.8" fill="#18181b" fill-opacity="0.90"/>
+<rect x="439.0" y="358.3" width="32" height="32" rx="7.2" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="455.0" cy="374.3" r="4.8" fill="#18181b" fill-opacity="0.90"/>
+<rect x="329.0" y="358.3" width="32" height="32" rx="7.2" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="345.0" cy="374.3" r="4.8" fill="#18181b" fill-opacity="0.90"/>
+<rect x="274.0" y="284.0" width="32" height="32" rx="7.2" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="290.0" cy="300.0" r="4.8" fill="#18181b" fill-opacity="0.90"/>
+<rect x="329.0" y="209.7" width="32" height="32" rx="7.2" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="345.0" cy="225.7" r="4.8" fill="#18181b" fill-opacity="0.90"/>
+<rect x="439.0" y="209.7" width="32" height="32" rx="7.2" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="455.0" cy="225.7" r="4.8" fill="#18181b" fill-opacity="0.90"/>
+<rect x="557.4" y="343.2" width="26" height="26" rx="5.9" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="570.4" cy="356.2" r="3.9" fill="#18181b" fill-opacity="0.65"/>
+<rect x="471.2" y="415.5" width="26" height="26" rx="5.9" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="484.2" cy="428.5" r="3.9" fill="#18181b" fill-opacity="0.65"/>
+<rect x="345.6" y="427.6" width="26" height="26" rx="5.9" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="358.6" cy="440.6" r="3.9" fill="#18181b" fill-opacity="0.65"/>
+<rect x="239.4" y="374.0" width="26" height="26" rx="5.9" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="252.4" cy="387.0" r="3.9" fill="#18181b" fill-opacity="0.65"/>
+<rect x="202.2" y="279.7" width="26" height="26" rx="5.9" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="215.2" cy="292.7" r="3.9" fill="#18181b" fill-opacity="0.65"/>
+<rect x="251.5" y="188.7" width="26" height="26" rx="5.9" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="264.5" cy="201.7" r="3.9" fill="#18181b" fill-opacity="0.65"/>
+<rect x="364.2" y="143.8" width="26" height="26" rx="5.9" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="377.2" cy="156.8" r="3.9" fill="#18181b" fill-opacity="0.65"/>
+<rect x="487.5" y="165.9" width="26" height="26" rx="5.9" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="500.5" cy="178.9" r="3.9" fill="#18181b" fill-opacity="0.65"/>
+<rect x="563.8" y="244.6" width="26" height="26" rx="5.9" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="576.8" cy="257.6" r="3.9" fill="#18181b" fill-opacity="0.65"/>
+<rect x="566.7" y="431.7" width="22" height="22" rx="5.0" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="577.7" cy="442.7" r="3.3" fill="#18181b" fill-opacity="0.40"/>
+<rect x="439.6" y="484.0" width="22" height="22" rx="5.0" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="450.6" cy="495.0" r="3.3" fill="#18181b" fill-opacity="0.40"/>
+<rect x="296.4" y="474.3" width="22" height="22" rx="5.0" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="307.4" cy="485.3" r="3.3" fill="#18181b" fill-opacity="0.40"/>
+<rect x="182.7" y="405.9" width="22" height="22" rx="5.0" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="193.7" cy="416.9" r="3.3" fill="#18181b" fill-opacity="0.40"/>
+<rect x="134.4" y="300.3" width="22" height="22" rx="5.0" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="145.4" cy="311.3" r="3.3" fill="#18181b" fill-opacity="0.40"/>
+<rect x="167.0" y="191.1" width="22" height="22" rx="5.0" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="178.0" cy="202.1" r="3.3" fill="#18181b" fill-opacity="0.40"/>
+<rect x="270.1" y="113.1" width="22" height="22" rx="5.0" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="281.1" cy="124.1" r="3.3" fill="#18181b" fill-opacity="0.40"/>
+<rect x="410.9" y="90.8" width="22" height="22" rx="5.0" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="421.9" cy="101.8" r="3.3" fill="#18181b" fill-opacity="0.40"/>
+<rect x="544.8" y="131.5" width="22" height="22" rx="5.0" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="555.8" cy="142.5" r="3.3" fill="#18181b" fill-opacity="0.40"/>
+<rect x="629.2" y="222.2" width="22" height="22" rx="5.0" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="640.2" cy="233.2" r="3.3" fill="#18181b" fill-opacity="0.40"/>
+<rect x="637.4" y="334.1" width="22" height="22" rx="5.0" fill="#fff" stroke="#18181b" stroke-opacity=".25"/><circle cx="648.4" cy="345.1" r="3.3" fill="#18181b" fill-opacity="0.40"/>
+<circle cx="400" cy="300" r="54" fill="#18181b"/><text x="400" y="296" font-size="15" font-weight="600" fill="#fff" text-anchor="middle">Núcleo</text><text x="400" y="316" font-size="11" fill="#a1a1aa" text-anchor="middle">26 agentes</text>
+<rect x="48" y="54" width="124" height="32" rx="16" fill="#fff" stroke="#d4d4d8"/><text x="110" y="75" font-size="13" fill="#3f3f46" text-anchor="middle">Guardián</text>
+<rect x="628" y="54" width="124" height="32" rx="16" fill="#fff" stroke="#d4d4d8"/><text x="690" y="75" font-size="13" fill="#3f3f46" text-anchor="middle">Bitácora</text>
+<rect x="48" y="534" width="124" height="32" rx="16" fill="#fff" stroke="#d4d4d8"/><text x="110" y="555" font-size="13" fill="#3f3f46" text-anchor="middle">Escalamiento</text>
+<rect x="628" y="534" width="124" height="32" rx="16" fill="#fff" stroke="#d4d4d8"/><text x="690" y="555" font-size="13" fill="#3f3f46" text-anchor="middle">Plazos fiscales</text>
+<text x="780" y="590" font-size="11" fill="#a1a1aa" text-anchor="end" letter-spacing="2">ILUSTRATIVO</text></svg>
